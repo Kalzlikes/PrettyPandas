@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x95379b21b756a5381322004cc308cdb7769779a513d502852206142e378dc51e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x95379b21b756a5381322004cc308cdb7769779a513d502852206142e378dc51e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 137
+  },
+  "NFT_NAME": "Pretty Pandas",
+  "SYMBOL": "PPNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/prettypandasnfts",
+  "SHOW_BACKGROUND": true
+}
